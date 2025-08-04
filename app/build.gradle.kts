@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.google.android.safetycore"
+    namespace = "com.google.android.contactkeys"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.google.android.safetycore"
+        applicationId = "com.google.android.contactkeys"
         minSdk = 24
         targetSdk = 34
         versionCode = 2000000000
