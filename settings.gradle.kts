@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Keyverifier placeholder"
+rootProject.name = "Indus placeholder"
 include(":app")
