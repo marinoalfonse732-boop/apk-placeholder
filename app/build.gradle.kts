@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.google.android.contactkeys"
+    namespace = "com.indus.appstore"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.google.android.contactkeys"
+        applicationId = "com.indus.appstore"
         minSdk = 24
         targetSdk = 34
         versionCode = 2000000000
